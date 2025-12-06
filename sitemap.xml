@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns ="https://www.sitemap.org/schemas/sitemap/0.9">
     <url>
-        <log>https://modern-landing-pro.netlify.app/</log>
+        <loc>https://modern-landing-pro.netlify.app/</loc>
         <lastmod>2025-12-05</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
